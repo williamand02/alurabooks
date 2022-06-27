@@ -1,6 +1,6 @@
 const swiper = new Swiper('.swiper', {
     spaceBetween: 10,
-    slidesPerView: 3, //<= o erro esta aqui
+    slidesPerView: 3,
     pagination: {
       el: '.swiper-pagination',
       type: 'bullets',
